@@ -1,0 +1,6 @@
+{
+  "name": "OmniView Analytics",
+  "description": "An interactive, multi-dimensional data visualization dashboard and analytics studio. Explore custom data via bar, line, area, scatter, donut, radar, heatmap, and treemap charts with live filtering and aggregation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
